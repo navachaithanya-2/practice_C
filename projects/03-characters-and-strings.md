@@ -9,3 +9,5 @@
 ## Concepts practiced
 
 Characters, strings, standard input, and safe line input.
+
+Click [here](../project-pages/03-characters-and-strings-template.md) for explanation and solution.
