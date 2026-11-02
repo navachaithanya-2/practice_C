@@ -7,3 +7,5 @@
 3. Define a `person` structure with name, date of joining, and salary; read and display five people.
 4. Define a `cricket` structure with player name, team name, and batting average.
 5. Store 50 players and print a team-wise list of player names with their batting averages.
+
+Click [here](../project-pages/19-structures-template.md) for explanation and solution.
