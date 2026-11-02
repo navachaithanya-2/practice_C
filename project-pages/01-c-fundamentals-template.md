@@ -28,10 +28,10 @@ Read an integer and determine whether it is positive, negative, or zero.
 ### Concepts practiced
 `scanf`, variables, comparisons, and conditional statements.
 ### Explanation
-First, we declare an integer variable named num. Then we use scanf("%d", &num); to read the value entered by the user. After that, we check the value:
+First, we declare an integer variable named num. Then we use `scanf("%d", &num);` to read the value entered by the user. After that, we check the value:
 <ul>
-    <li>If num > 0, it is positive.</li>
-    <li>Else if num < 0, it is negative.</li>
+    <li>If `num > 0` , it is positive.</li>
+    <li>Else if `num < 0` , it is negative.</li>
     <li>Otherwise, it is zero. We use if, else if, and else statements to make these decisions.</li>
 </ul>
 
@@ -69,7 +69,7 @@ Read an integer and determine whether it is even or odd.
 ### Concepts practiced
 `scanf`, `%`, and conditional statements.
 ### Explanation
-We read an integer using `scanf("%d", &num);`. Then we use the modulo operator % to find the remainder when the number is divided by 2. If the remainder is 0, the number is even; otherwise, it is odd. This is checked with an if condition.
+We read an integer using `scanf("%d", &num);`. Then we use the modulo operator `%` to find the remainder when the number is divided by 2. If the remainder is 0, the number is even; otherwise, it is odd. This is checked with an if condition.
 ### C solution
 ```c
 #include <stdio.h>
