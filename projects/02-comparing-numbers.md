@@ -8,3 +8,5 @@
 ## Concepts practiced
 
 Conditional statements and comparison operators.
+
+Click [here](../project-pages/02-comparing-numbers-template.md) for explanation and solution.
