@@ -7,7 +7,7 @@ Calculate simple interest using a function.
 Functions, parameters, return values, and arithmetic.
 ### Explanation
 Simple interest is calculated using the formula:
-SI = (P * R * T) / 100
+`SI = (P * R * T) / 100`
 where `P` is the principal amount, `R` is the rate of interest, and `T` is the time period. We define a function `simpleInterest(principal, rate, time)` that takes these values as parameters and returns the interest.
 ### C solution
 ```c
