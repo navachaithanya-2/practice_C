@@ -15,3 +15,5 @@ Print the following five patterns using nested loops:
 ## Concepts practiced
 
 Nested loops, row/column thinking, and formatted output.
+
+Click [here](../project-pages/12-number-patterns-template.md) for explanation and solution.
