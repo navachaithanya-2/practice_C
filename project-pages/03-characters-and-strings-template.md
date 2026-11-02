@@ -21,7 +21,9 @@ int main() {
     printf("\n");
 
     return 0;
-}```
+}
+```
+
 ### Sample run
 ```text
 Input: A
@@ -48,7 +50,8 @@ int main() {
     puts(str);
 
     return 0;
-}```
+}
+```
 ### Sample run
 ```text
 Input: Hello C
