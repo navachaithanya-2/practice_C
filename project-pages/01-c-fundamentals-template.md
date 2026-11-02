@@ -6,10 +6,15 @@ Write a C program that prints `Hello, World!`.
 ### Concepts practiced
 `main`, `printf`, and standard output.
 ### Explanation
-_Explain the algorithm here._
+The program starts with `#include <stdio.h>`, which allows us to use the `printf()` function. The `main()` function is the entry point of the program. Inside it, `printf("Hello, World!\n");` prints the message to the screen. The `\n` moves the cursor to the next line. The `return 0;` statement ends the program successfully.
 ### C solution
 ```c
-/* Add the complete solution here. */
+#include <stdio.h>
+
+int main() {
+    printf("Hello, World!\n");
+    return 0;
+}
 ```
 ### Sample run
 ```text
