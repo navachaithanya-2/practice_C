@@ -30,8 +30,8 @@ Read an integer and determine whether it is positive, negative, or zero.
 ### Explanation
 First, we declare an integer variable named num. Then we use `scanf("%d", &num);` to read the value entered by the user. After that, we check the value:
 <ul>
-    <li>If `num > 0` , it is positive.</li>
-    <li>Else if `num < 0` , it is negative.</li>
+    <li>If num > 0, it is positive.</li>
+    <li>Else if num < 0, it is negative.</li>
     <li>Otherwise, it is zero. We use if, else if, and else statements to make these decisions.</li>
 </ul>
 
