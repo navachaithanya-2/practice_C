@@ -7,7 +7,6 @@ A structured collection of beginner-friendly C programming exercises. Each proje
 1. Read the problem statement.
 2. Try to solve it yourself.
 3. Open the linked project page for the explanation and solution.
-4. Compile with `gcc filename.c -o program` and run the result.
 
 ## Projects
 
