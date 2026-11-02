@@ -10,3 +10,5 @@
 ## Concepts practiced
 
 `switch`, `case`, `break`, menus, and validation.
+
+Click [here](../project-pages/07-switch-statements-template.md) for explanation and solution.
