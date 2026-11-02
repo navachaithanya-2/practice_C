@@ -81,7 +81,8 @@ int main() {
     printf("Uppercase: %c\n", ch);
 
     return 0;
-}```
+}
+```
 ### Sample run
 ```text
 Input: m
