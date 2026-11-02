@@ -6,7 +6,8 @@ Check whether an entered character is a vowel or a consonant.
 ### Concepts practiced
 `if`, `else if`, character comparisons, and input validation.
 ### Explanation
-The program reads a character from the user. Then it checks whether the character is one of the vowels: `a`, `e`, `i`, `o`, or `u`. This check is done using `if` and `else if` conditions. If the character is a vowel, we print `Vowel`; otherwise, we print `Consonant`. We can also convert the input to lowercase before checking, so both uppercase and lowercase letters work.### C solution
+The program reads a character from the user. Then it checks whether the character is one of the vowels: `a`, `e`, `i`, `o`, or `u`. This check is done using `if` and `else if` conditions. If the character is a vowel, we print `Vowel`; otherwise, we print `Consonant`. We can also convert the input to lowercase before checking, so both uppercase and lowercase letters work.
+### C solution
 ```c
 #include <stdio.h>
 
