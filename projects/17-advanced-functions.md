@@ -8,3 +8,5 @@
 4. Write a function that converts a string argument from lowercase to uppercase.
 5. Calculate `nCr = n! / (r! * (n-r)!)` using user-defined functions.
 6. Write a function that accepts two numbers and returns their GCD.
+
+Click [here](../project-pages/17-advanced-functions-template.md) for explanation and solution.
