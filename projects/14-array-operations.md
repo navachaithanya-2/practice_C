@@ -10,3 +10,5 @@
 ## Note
 
 The second exercise intentionally means positions 2 and `n - 1`, using one-based position wording.
+
+Click [here](../project-pages/14-array-operations-template.md) for explanation and solution.
