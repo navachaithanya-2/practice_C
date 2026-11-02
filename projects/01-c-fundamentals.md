@@ -12,4 +12,4 @@ These exercises introduce program structure, input, output, and basic conditions
 
 `main`, `printf`, `scanf`, variables, comparison operators, and the remainder operator.
 
-Click [here](01-c-fundamentals-template.md) for explanation and solution.
+Click [here](../project-pages/01-c-fundamentals-template.md) for explanation and solution.
