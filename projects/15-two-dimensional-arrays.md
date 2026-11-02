@@ -10,3 +10,5 @@
 ## Concepts practiced
 
 2D arrays, nested loops, and matrix dimension checks.
+
+Click [here](../project-pages/15-two-dimensional-arrays-template.md) for explanation and solution.
