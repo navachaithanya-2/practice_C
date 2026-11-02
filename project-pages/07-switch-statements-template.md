@@ -40,7 +40,8 @@ Check whether an entered number is a perfect square.
 ### Concepts practiced
 Integer checks, loops, and `switch`-based decisions where appropriate.
 ### Explanation
-A perfect square is a number that can be written as the square of an integer. We can test this by checking all numbers from 1 up to `sqrt(n)`. If any value squared equals `n`, then it is a perfect square. This uses loop-based checking and comparison.### C solution
+A perfect square is a number that can be written as the square of an integer. We can test this by checking all numbers from 1 up to `sqrt(n)`. If any value squared equals `n`, then it is a perfect square. This uses loop-based checking and comparison.
+### C solution
 ```c
 #include <stdio.h>
 #include <math.h>
