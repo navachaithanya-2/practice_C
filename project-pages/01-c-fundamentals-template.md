@@ -69,7 +69,7 @@ Read an integer and determine whether it is even or odd.
 ### Concepts practiced
 `scanf`, `%`, and conditional statements.
 ### Explanation
-We read an integer using scanf("%d", &num);. Then we use the modulo operator % to find the remainder when the number is divided by 2. If the remainder is 0, the number is even; otherwise, it is odd. This is checked with an if condition.
+We read an integer using `scanf("%d", &num);`. Then we use the modulo operator % to find the remainder when the number is divided by 2. If the remainder is 0, the number is even; otherwise, it is odd. This is checked with an if condition.
 ### C solution
 ```c
 #include <stdio.h>
