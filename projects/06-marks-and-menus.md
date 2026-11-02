@@ -9,3 +9,5 @@
 ## Concepts practiced
 
 Conditional operator, range checks, and input validation.
+
+Click [here](../project-pages/06-marks-and-menus-template.md) for explanation and solution.
