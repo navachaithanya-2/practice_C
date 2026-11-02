@@ -10,3 +10,5 @@
 ## Concepts practiced
 
 `#define`, arithmetic operators, assignment, and operator precedence.
+
+Click [here](../project-pages/04-operators-and-macros-template.md) for explanation and solution.
