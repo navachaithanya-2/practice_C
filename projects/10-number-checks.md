@@ -8,3 +8,5 @@
 ## Concepts practiced
 
 Divisors, counters, and efficient loop limits.
+
+Click [here](../project-pages/10-number-checks-template.md) for explanation and solution.
