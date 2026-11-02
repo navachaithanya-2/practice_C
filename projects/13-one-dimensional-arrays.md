@@ -6,3 +6,5 @@
 2. Read an array and print its elements in reverse order.
 3. Calculate the sum of array elements.
 4. Calculate the average of array elements.
+
+Click [here](../project-pages/13-one-dimensional-arrays-template.md) for explanation and solution.
