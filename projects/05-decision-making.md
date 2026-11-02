@@ -8,3 +8,5 @@
 ## Concepts practiced
 
 `if`, `else if`, nested conditions, and input validation.
+
+Click [here](../project-pages/05-decision-making-template.md) for explanation and solution.
