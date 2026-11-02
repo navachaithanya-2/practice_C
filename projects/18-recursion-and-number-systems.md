@@ -8,4 +8,4 @@
 4. Convert binary to decimal using recursion.
 5. Convert hexadecimal to decimal using recursion.
 
-Click [here](../project-pages/18-recursion-and number-systems-template.md) for explanation and solution.
+Click [here](../project-pages/18-recursion-and-number-systems-template.md) for explanation and solution.
