@@ -125,7 +125,9 @@ Arrays, `%`, and counters.
 ### Explanation
 We traverse the array and check each element:
 - If `element % 2 == 0`, it is even and we increment the even counter.
-- Otherwise, it is odd and we increment the odd counter. At the end, we print both counts.
+- Otherwise, it is odd and we increment the odd counter.
+
+At the end, we print both counts.
 ### C solution
 ```c
 #include <stdio.h>
