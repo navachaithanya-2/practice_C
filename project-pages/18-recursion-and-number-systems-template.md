@@ -9,6 +9,7 @@ Base cases, recursive calls, and return values.
 A recursive function calls itself to solve a smaller version of the same problem. For factorial:
 - Base case: if `n == 0` or `n == 1`, return 1
 - Recursive case: return `n * factorial(n - 1)`
+
 This continues until the base case is reached.
 ### C solution
 ```c
@@ -47,7 +48,9 @@ Recursive calls, base cases, and sequence generation.
 The Fibonacci sequence is defined as:
 - F(0) = 0
 - F(1) = 1
-- F(n) = F(n - 1) + F(n - 2) A recursive function computes the next number using the previous two values.
+- F(n) = F(n - 1) + F(n - 2)
+
+A recursive function computes the next number using the previous two values.
 This continues until the base cases are reached.
 ### C solution
 ```c
