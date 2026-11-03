@@ -84,7 +84,9 @@ Remainder and comparison operators.
 ### Explanation
 The `%` operator gives the remainder after division. When a number is divided by 2:
 - If the remainder is 0, the number is even.
-- Otherwise, it is odd. This is a common way to test parity in C.
+- Otherwise, it is odd.
+
+This is a common way to test parity in C.
 ### C solution
 ```c
 #include <stdio.h>
@@ -119,7 +121,9 @@ Assignment and arithmetic or bitwise operators.
 To swap two numbers without a temporary variable, we can use arithmetic:
 - `a = a + b`
 - `b = a - b`
-- `a = a - b` After these steps, the values are exchanged. This works because the original values are used in the calculation.
+- `a = a - b`
+
+After these steps, the values are exchanged. This works because the original values are used in the calculation.
 ### C solution
 ```c
 #include <stdio.h>
