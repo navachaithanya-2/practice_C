@@ -14,6 +14,7 @@ After that, we use `if` and `else if` statements to determine the class:
 - 45% to below 60% → Second Class
 - 60% to 70% → First Class
 - Above 70% → Distinction
+
 The boundary conditions are checked carefully so values like exactly 35, 45, 60, and 70 fall in the correct class.
 ### C solution
 ```c
@@ -48,8 +49,9 @@ int main() {
 ```
 ### Sample run
 ```text
-Input: five marks
-Output: percentage and class
+Input: 75 80 85 84 79 
+Output: Percentage: 80.60%
+Class: Distinction
 ```
 
 ## Exercise 2: Largest with conditional operator
@@ -60,7 +62,9 @@ Conditional operator and comparisons.
 ### Explanation
 The conditional operator `?:` is a compact form of `if-else`. We compare the numbers and assign the largest one to a variable. For example: `largest = (a > b) ? ((a > c) ? a : c) : ((b > c) ? b : c);` This means:
 - If `a` is greater than `b`, compare a with `c`.
-- Otherwise, compare `b` with `c`. This reduces long nested `if` statements into a short expression.
+- Otherwise, compare `b` with `c`.
+
+This reduces long nested `if` statements into a short expression.
 ### C solution
 ```c
 #include <stdio.h>
@@ -93,7 +97,9 @@ Range checks, grouped cases, and validation.
 The program reads a month number. If the number is outside the range 1 to 12, it prints an error message. Otherwise, it checks the month:
 - 1,3,5,7,8,10,12 → 31 days
 - 4,6,9,11 → 30 days
-- 2 → 28 days This uses `if` and `else if` conditions or a `switch` statement to handle month groups.
+- 2 → 28 days
+
+This uses `if` and `else if` conditions or a `switch` statement to handle month groups.
 ### C solution
 ```c
 #include <stdio.h>
