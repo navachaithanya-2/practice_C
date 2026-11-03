@@ -40,7 +40,7 @@ Read three numbers and display the largest number, handling ties clearly.
 ### Concepts practiced
 Multiple comparisons and conditional statements.
 ### Explanation
-We read three integer values and compare them step by step. First, we assume the first value is the largest. Then we compare it with the second and third values. If the second value is greater than the current largest, we update the largest. We do the same with the third value. At the end, we print the largest number. If two or more numbers are equal, we can handle that separately by printing a message such as "Tie".
+We read three integer values and compare them step by step. First, we assume the first value is the largest. Then we compare it with the second and third values. If the second value is greater than the current largest, we update the largest. We do the same with the third value. At the end, we print the largest number. 
 ### C solution
 ```c
 #include <stdio.h>
