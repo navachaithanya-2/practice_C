@@ -8,6 +8,7 @@ Check whether a number is divisible by both 3 and 5.
 ### Explanation
 A number is divisible by both 3 and 5 if it is divisible by 15. The simplest way is to check the remainder using `%`:
 - If `n % 3 == 0` and `n % 5 == 0`, then it is divisible by both.
+
 This exercise can also be extended using `switch` to select cases based on input ranges or conditions, but the core logic is based on divisibility checks.
 ### C solution
 ```c
@@ -84,7 +85,9 @@ The month number is read from the user. Then we use a `switch` statement with gr
 - 12, 1, 2 → Winter
 - 3, 4, 5 → Summer
 - 6, 7, 8, 9 → Monsoon
-- 10, 11 → Autumn If the month is invalid, we print an error message.
+- 10, 11 → Autumn
+
+If the month is invalid, we print an error message.
 ### C solution
 ```c
 #include <stdio.h>
@@ -145,6 +148,7 @@ The user chooses a shape from a menu. Based on the selected option, the program 
 - Square: `side²`
 - Rectangle: `length * breadth`
 - Triangle: `(base * height) / 2`
+
 If the choice is invalid, we print a message.
 ### C solution
 ```c
@@ -202,6 +206,7 @@ int main() {
 ```
 ### Sample run
 ```text
-Input: choice and dimensions
-Output: selected shape's area
+Input: 1
+5
+Output: Area of circle = 78.53
 ```
