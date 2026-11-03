@@ -9,6 +9,7 @@ Use a macro to calculate the area and circumference of a circle.
 A macro is a symbol defined by `#define` that replaces text before compilation. Here, we define `PI` as `3.14159` and use it to calculate:
 - Area = `PI * r * r`
 - Circumference = `2 * PI * r`
+
 This makes the code easier to read and avoids repeating the same constant many times.
 ### C solution
 ```c
