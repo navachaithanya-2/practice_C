@@ -72,7 +72,7 @@ int main() {
 ### Sample run
 ```text
 Input: 5 10 15 20
-Output: 30
+Output: 25
 ```
 
 ## Exercise 3: Copy an array
