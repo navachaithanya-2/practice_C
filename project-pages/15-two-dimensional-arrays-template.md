@@ -49,7 +49,9 @@ Count positive, negative, and zero elements in a two-dimensional array.
 A two-dimensional array is stored in rows and columns. We use two nested loops: one for rows and one for columns. For each element, we check whether it is:
 - greater than 0 → positive
 - less than 0 → negative
-- equal to 0 → zero We increase the matching counter for each case.
+- equal to 0 → zero
+
+We increase the matching counter for each case.
 ### C solution
 ```c
 #include <stdio.h>
@@ -86,8 +88,10 @@ int main() {
 ```
 ### Sample run
 ```text
-Input: a 2D array
-Output: positive, negative, and zero counts
+Input: 8 -5 2 2 0 -4 -2 1 -3
+Output: Positive = 4
+Negative = 4
+Zero = 1
 ```
 
 ## Exercise 3: Add two matrices
@@ -138,8 +142,9 @@ int main() {
 ```
 ### Sample run
 ```text
-Input: two compatible matrices
-Output: their sum matrix
+Input: 9 3 0 4
+8 -1 0 -4
+Output: 17 2 0 0
 ```
 
 ## Exercise 4: Multiply two matrices
@@ -151,7 +156,9 @@ Multiply two matrices when their dimensions are compatible.
 Matrix multiplication requires the number of columns of the first matrix to equal the number of rows of the second matrix. We use three nested loops:
 - outer loop for rows of the result matrix
 - middle loop for columns of the second matrix
-- inner loop to multiply and sum the matching elements For each result position: `result[i][j] += a[i][k] * b[k][j]`
+- inner loop to multiply and sum the matching elements
+
+For each result position: `result[i][j] += a[i][k] * b[k][j]`
 ### C solution
 ```c
 #include <stdio.h>
@@ -196,6 +203,7 @@ int main() {
 ```
 ### Sample run
 ```text
-Input: two compatible matrices
-Output: their product matrix
+Input: 1 -2 3 4
+1 0 2 1
+Output: -3 -2 11 4
 ```
