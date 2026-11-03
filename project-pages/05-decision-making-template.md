@@ -42,11 +42,12 @@ Build a calculator for addition, subtraction, multiplication, and division based
 ### Concepts practiced
 Conditional ladders, nested conditions, operators, and division validation.
 ### Explanation
-We take two numbers and an operator from the user. Then we use if...else if statements to decide which operation to perform:
+We take two numbers and an operator from the user. Then we use `if...else if` statements to decide which operation to perform:
 - `+` for addition
 - `-` for subtraction
 - `*` for multiplication
-- `/` for division We also check whether the divisor is zero before division, because dividing by zero is invalid. This can also be written using nested `if` statements instead of a ladder.
+- `/` for division
+We also check whether the divisor is zero before division, because dividing by zero is invalid. This can also be written using nested `if` statements instead of a ladder.
 ### C solution
 ```c
 #include <stdio.h>
