@@ -39,8 +39,5 @@ A structured collection of beginner-friendly C programming exercises. Each proje
 - Use standard C (`C11`) and include input validation where appropriate.
 - Keep each solution in its own `.c` file.
 - Use meaningful variable and function names.
-- Explain the algorithm before showing the code.
 
-## License
 
-This project is intended for learning and may be reused freely for educational purposes.
