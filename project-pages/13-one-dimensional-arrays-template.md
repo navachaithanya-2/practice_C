@@ -39,8 +39,9 @@ int main() {
 ```
 ### Sample run
 ```text
-Input: 10 integers
-Output: positive count and negative count
+Input: 5 9 -4 -10 64 -7 13 -58 94 27
+Output: Positive count = 6
+Negative count = 4
 ```
 
 ## Exercise 2: Reverse an array
