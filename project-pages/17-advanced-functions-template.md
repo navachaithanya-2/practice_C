@@ -30,8 +30,8 @@ int main() {
 ```
 ### Sample run
 ```text
-Input: principal, rate, time
-Output: simple interest
+Input: 10000 5 4
+Output: 2000
 ```
 
 ## Exercise 2: Add two numbers
@@ -180,7 +180,7 @@ int main() {
 ```
 ### Sample run
 ```text
-Input: n = 5, r = 2
+Input: 5 2
 Output: 10
 ```
 
