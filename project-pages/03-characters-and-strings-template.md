@@ -6,7 +6,8 @@ Read and print one character using `getchar()` and `putchar()`.
 ### Concepts practiced
 Characters, `getchar()`, and `putchar()`.
 ### Explanation
-This program reads one character from the keyboard using `getchar()`. The character is stored in a variable of type `char`. Then `putchar()` prints the same character to the screen. This is useful when working with single characters instead of full strings.### C solution
+This program reads one character from the keyboard using `getchar()`. The character is stored in a variable of type `char`. Then `putchar()` prints the same character to the screen. This is useful when working with single characters instead of full strings.
+### C solution
 ```c
 #include <stdio.h>
 
@@ -37,6 +38,7 @@ Read and print a string using `fgets()` and `puts()`.
 Character arrays, `fgets()`, `puts()`, and safe line input.
 ### Explanation
 A string in C is stored as an array of characters. We declare a character array like `char str[100];`. The `fgets()` function reads a line of text safely from input and stores it in the array. `puts()` prints the string to the output screen. This is a safe way to read text with spaces.
+### C Solution
 ```c
 #include <stdio.h>
 
@@ -65,6 +67,7 @@ Convert a lowercase character to uppercase using character operations.
 Character codes and character arithmetic.
 ### Explanation
 In C, each character has an ASCII value. Lowercase letters and uppercase letters differ by a fixed value: `'a' - 'A' = 32`. So to convert a lowercase letter to uppercase, we subtract 32 from its ASCII value. This works for lowercase letters `a` to `z`.
+### C Solution
 ```c
 #include <stdio.h>
 
