@@ -39,7 +39,7 @@ Output: Area = 78.54
 Circumference = 31.42
 ```
 
-## Exercise 2: Square and cube
+## Exercise 2: Square and Cube
 ### Problem statement
 Use macros to calculate the square and cube of a number.
 ### Concepts practiced
@@ -47,7 +47,9 @@ Macros and arithmetic operators.
 ### Explanation
 We define two macros:
 - `SQUARE(x) = x * x`
-- `CUBE(x) = x * x * x` Then we call these macros with a value and print the results. This demonstrates how macros help simplify repeated computations.
+- `CUBE(x) = x * x * x`
+
+Then we call these macros with a value and print the results. This demonstrates how macros help simplify repeated computations.
 ### C solution
 ```c
 #include <stdio.h>
