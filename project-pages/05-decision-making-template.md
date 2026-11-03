@@ -47,6 +47,7 @@ We take two numbers and an operator from the user. Then we use `if...else if` st
 - `-` for subtraction
 - `*` for multiplication
 - `/` for division
+
 We also check whether the divisor is zero before division, because dividing by zero is invalid. This can also be written using nested `if` statements instead of a ladder.
 ### C solution
 ```c
