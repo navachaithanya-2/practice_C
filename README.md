@@ -33,6 +33,9 @@ A structured collection of beginner-friendly C programming exercises. Each proje
 | 19 | [Structures](projects/19-structures.md) | 5 |
 | 20 | [Pointers and Structures](projects/20-pointers-and-structures.md) | 2 |
 | 21 | [Nested Structures](projects/21-nested-structures.md) | 3 |
+| 22 | [Pointers](projects/22-pointers.md) | 6 |
+| 23 | [Dynamic Memory Allocation](projects/23-dynamic-memory-allocation.md) | 3 |
+| 24 | [File Handling](projects/24-file-handling.md) | 4 |
 
 ## Suggested conventions
 
